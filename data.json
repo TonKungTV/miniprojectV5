@@ -1,0 +1,50 @@
+{
+    "bills": [],
+    "customers": [
+        {
+            "wallet": 2525.0,
+            "name": "testtwo",
+            "isMember": true,
+            "membershipId": "0001",
+            "points": 0
+        }
+    ],
+    "products": [
+        {
+            "quantity": 14,
+            "price": 20.0,
+            "name": "Chips",
+            "type": "SNACK"
+        },
+        {
+            "quantity": 10,
+            "price": 15.0,
+            "name": "Soda",
+            "type": "DRINK"
+        },
+        {
+            "quantity": 5,
+            "price": 45.0,
+            "name": "Kapao",
+            "type": "FOOD"
+        },
+        {
+            "quantity": 32,
+            "price": 20.0,
+            "name": "Lays",
+            "type": "SNACK"
+        },
+        {
+            "quantity": 32,
+            "price": 17.5,
+            "name": "Coke",
+            "type": "DRINK"
+        },
+        {
+            "quantity": 17,
+            "price": 15.0,
+            "name": "Pepsi",
+            "type": "DRINK"
+        }
+    ]
+}
